@@ -1,0 +1,6 @@
+{
+  "name": "Pasar Desa Lumbung Kauh",
+  "description": "Aplikasi Pasar Desa Lumbung Kauh dengan database Google Sheets & Apps Script, ruang admin terpassword, ruang pedagang kelola produk dan pesanan, transaksi via WhatsApp, serta notifikasi otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
